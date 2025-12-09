@@ -29,12 +29,14 @@ body {
   border: 1px solid #bdbdbd;
   border-radius: 5px;
   margin: 10px 0;
+  box-sizing: border-box;
 }
 
 .forgot {
   font-size: 14px;
   color: #0077ff;
   text-decoration: none;
+  display: inline-block;
 }
 
 .forgot:hover {
