@@ -1,8 +1,20 @@
 body {
-  background-color: #b8e6ff; 
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;   
+    justify-content: center; 
+    align-items: center;     
+    background-color: #b8e6ff; 
 }
 
-.login-container {
-  background-color: #b8e6ff; 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.logo-box {
+    margin-bottom: 20px;
 }
