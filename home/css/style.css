@@ -1,12 +1,8 @@
 body {
-  background-color: lightblue;
-}
-h1 {
-  color: navy;
-  margin-left: 20px;
+  background-color: #b8e6ff; 
 }
 
-.center {
-  text-align: center;
-  color: rgb(119, 205, 236);
+.login-container {
+  background-color: #b8e6ff; 
+
 }
